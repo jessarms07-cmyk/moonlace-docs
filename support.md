@@ -258,11 +258,21 @@ A stronger request would include:
 - Device
 - Recent changes
 
-## Support Request Form
+## Submit a Support Request
 
-The official Moonlace support form will be embedded or linked here.
+If the documentation and troubleshooting guides have not resolved your issue, submit a request through the official Moonlace support form.
 
-Until the form is connected, this page serves as the public Moonlace support information page.
+[**Open the Moonlace Support Form →**](https://tally.so/r/VLeX96)
+
+Please include as much detail as possible so the issue can be investigated efficiently.
+
+Before submitting, remember:
+
+- Do not send passwords.
+- Do not send payment information.
+- Do not send API keys or access tokens.
+- Do not send authentication codes.
+- Include screenshots when they help explain the issue.
 
 ## Documentation
 
